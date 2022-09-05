@@ -1,0 +1,1 @@
+Basketball Scoreboard is a small app that keeps score of two teams. The idea behind the app was really to get some practice using DOM minipulation on buttons and also on designing with mobile in mind.
